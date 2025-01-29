@@ -1,4 +1,4 @@
-# Lendinf Club Case Study
+# Lending Club Case Study
 > To identify the risky loan applicants from a given Dataset.
 
 
