@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lendinf Club Case Study
+> To identify the risky loan applicants from a given Dataset.
 
 
 ## Table of Contents
